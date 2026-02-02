@@ -1,7 +1,3 @@
-Here’s a **complete `README.md`** for your upcoming **Mint-like personal finance app** built on **Google Sheets + Apps Script**, with optional Plaid integration and a Google Sites front-end.
-It’s written so you can **open it later and instantly remember everything**.
-
----
 
 # 🟢 Personal Finance App (Mint Clone) — README
 
@@ -287,13 +283,3 @@ function plaidRequest(endpoint, body) {
 4. Build Google Sites docs
 5. Add Plaid integration
 
----
-
-If you want, I can also:
-
-* Create a **one-page quickstart checklist**
-* Generate a **full folder template**
-* Build the **initial Apps Script codebase**
-* Draft your **Google Sites content** (home + help + FAQ)
-
-Just say the word.
